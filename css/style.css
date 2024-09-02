@@ -173,16 +173,16 @@
 
    footer {
        display: flex;
-       justify-content: center;
+       justify-content:space-around;
        padding: 54px;
        flex-wrap: wrap;
-       gap: 60px;
+      
    }
 
    .box1,
    .box2,
    .box3 {
-       max-width: 300px;
+       max-width: 350px;
    }
 
    .fa-check {
@@ -195,4 +195,8 @@
 
    .header2 {
        color: green;
+       font-size: 35px;
    }
+.pragraph{
+  font-size:20px;
+}
